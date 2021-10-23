@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Akatsuki-Kira, i'm a french learner of python, HTML5, CSS and network administration
+- 👀 I’m interested in Python learning and developement.
+- 📫 You can join me on discord: KIRA#9761
